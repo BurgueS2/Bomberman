@@ -6,5 +6,5 @@
 
 ## Acesse o game 🕹️
 
-[![Cartucho](https://github.com/BurgueS2/Bomberman/assets/106715331/3b6314b6-9476-4a59-afae-a8c276caee1c)
+[![Cartucho (1)](https://github.com/BurgueS2/Bomberman/assets/106715331/3761ad90-26cb-4629-9b9b-ab1889494f4d)
 ](https://burgues2.github.io/Bomberman/)
